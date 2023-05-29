@@ -24,6 +24,6 @@
   top: 90%;
 }*/
 
-.fa-solid fa-envelope:hover{
+.btn:hover i.fa-solid.fa-envelope{
   color:white
 }
