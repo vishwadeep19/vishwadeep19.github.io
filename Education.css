@@ -55,9 +55,8 @@ body{
     height: 80%;
   }
 
-  .row{
-    width: 100%;
-    height: 80%;
+  #row{
+    padding: 7% 0 0;
   }
 
   .Coding{
