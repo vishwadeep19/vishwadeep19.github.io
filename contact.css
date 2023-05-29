@@ -97,11 +97,11 @@ body{
   .linkedin{
     color: #0e76a8;
   }
-  .google{
-    color: #ea4335;
+  .outlook{
+    color: #52afd9;
   }
 
-  .github:hover , .instagram:hover , .google:hover , .linkedin:hover{
+  .github:hover , .instagram:hover , .outlook:hover , .linkedin:hover{
       color: black;
   }
 
