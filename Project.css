@@ -49,6 +49,12 @@ body{
     padding: 5% 0 3%;
   }
 
+  .heading{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
   .project-heading{
     margin: auto;
     width: 60%;
