@@ -217,7 +217,7 @@ span.wave {
 
 
   .Feature-svg-image{
-      top: -200px;
+      
       width: 100%;
       height:84%;
   }
@@ -267,6 +267,7 @@ span.wave {
 
   @media only screen and (max-width : 764px){
     .feature-2{
+      margin-top: -20px;
       display: flex;
       flex-direction: column;
     }
