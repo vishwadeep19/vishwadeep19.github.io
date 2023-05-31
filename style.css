@@ -256,6 +256,10 @@ span.wave {
     display: inline;
   }
 
+  .row feature-1{
+    margin-top: -20px;
+  }
+
   .Data-Analytic{
       text-align: left;
   }
@@ -267,7 +271,6 @@ span.wave {
 
   @media only screen and (max-width : 764px){
     .feature-2{
-      margin-top: -100px;
       display: flex;
       flex-direction: column;
     }
